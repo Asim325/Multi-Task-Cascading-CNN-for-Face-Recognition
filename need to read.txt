@@ -1,0 +1,4 @@
+https://mtcnn.readthedocs.io/en/latest/
+
+
+https://towardsdatascience.com/face-detection-models-which-to-use-and-why-d263e82c302c
